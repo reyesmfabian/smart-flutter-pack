@@ -2,7 +2,7 @@
   "name": "smart-flutter-pack",
   "displayName": "Smart Flutter Pack",
   "description": "This extension pack allows you to accelerate the development of your Flutter projects.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon/icon.png",
   "repository": "https://github.com/reyesmfabian/smart-flutter-pack",
   "publisher": "FabianReyes",
